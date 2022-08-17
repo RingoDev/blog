@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@storyblok/react": "^1.0.8",
+    "@storyblok/react": "1.1.5",
     "global": "^4.4.0",
     "lodash.throttle": "^4.1.1",
     "next": "^12.2.5",
