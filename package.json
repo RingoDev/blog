@@ -20,7 +20,7 @@
     "@types/lodash.throttle": "^4.1.7",
     "@types/node": "^18.7.5",
     "@types/react": "^18.0.17",
-    "@types/sharp": "^0.30.5",
+    "@types/sharp": "^0.31.0",
     "autoprefixer": "^10.4.7",
     "axios": "0.27.2",
     "eslint": "^8.22.0",
