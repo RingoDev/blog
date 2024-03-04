@@ -300,19 +300,19 @@
   resolved "https://registry.yarnpkg.com/@rushstack/eslint-patch/-/eslint-patch-1.1.4.tgz#0c8b74c50f29ee44f423f7416829c0bf8bb5eb27"
   integrity sha512-LwzQKA4vzIct1zNZzBmRKI9QuNpLgTQMEjsQLf3BXuGYb3QPTP4Yjf6mkdX+X1mYttZ808QpOwAzZjv28kq7DA==
 
-"@storyblok/js@^1.7.2":
-  version "1.7.2"
-  resolved "https://registry.yarnpkg.com/@storyblok/js/-/js-1.7.2.tgz#b4c6f26a14ddd8b9afa59af164dcb4c94d05e94b"
-  integrity sha512-AYAd9sxiAzMS3lGDdCCPnk6Fqws1Ix5Vr+gByWK7u3ygaNtGrwdsQvKtx7KV0KoPCaDmlk1t6Gp5GNy/4dSI1w==
+"@storyblok/js@^3.0.7":
+  version "3.0.7"
+  resolved "https://registry.yarnpkg.com/@storyblok/js/-/js-3.0.7.tgz#6c659c61be443cdb5c9cf1b368f4120f76d2769d"
+  integrity sha512-m6MpUhjEpDWMKftyjJhTkthd/I6LZ9xhuT/Wxa1e99Cf4niVC5jgMVPQ5tOsUgn3D8BKNL+6PI3hEj5dGKB9xw==
   dependencies:
-    storyblok-js-client "^4.5.6"
+    storyblok-js-client "^6.7.1"
 
-"@storyblok/react@1.1.5":
-  version "1.1.5"
-  resolved "https://registry.yarnpkg.com/@storyblok/react/-/react-1.1.5.tgz#8af2f0f8a44ef06f29d7cd914fb8fc9ad046c7c0"
-  integrity sha512-od6PKIGTfLDL+x3PXSPGpQrmaG19n0VPdR/9EC/AKqdKfMI+i45uie4Zc0FWRgDmVpRdYd5vnbjAyAJkwJh1Ug==
+"@storyblok/react@3.0.9":
+  version "3.0.9"
+  resolved "https://registry.yarnpkg.com/@storyblok/react/-/react-3.0.9.tgz#bad94d7185aa730c6642170a10284202c2fff6a3"
+  integrity sha512-N362hE+sBH3QebCrJtqgzGI2l+Dre8hfNJmAJvEtx1bEtfvu6hcA5ch5eQjjILxgDMwtseA0BnCXP7zoqJ2KCg==
   dependencies:
-    "@storyblok/js" "^1.7.2"
+    "@storyblok/js" "^3.0.7"
 
 "@swc/helpers@0.4.3":
   version "0.4.3"
@@ -2909,10 +2909,10 @@ source-map@^0.6.0:
   resolved "https://registry.yarnpkg.com/source-map/-/source-map-0.6.1.tgz#74722af32e9614e9c287a8d0bbde48b5e2f1a263"
   integrity sha512-UjgapumWlbMhkBgzT7Ykc5YXUT46F0iKu8SGXq0bcwP5dz/h0Plj6enJqjz1Zbq2l5WaqYnrVbwWOWMyF3F47g==
 
-storyblok-js-client@^4.5.6:
-  version "4.5.6"
-  resolved "https://registry.yarnpkg.com/storyblok-js-client/-/storyblok-js-client-4.5.6.tgz#caab0bb1ead8618f84afcc35be9305883d85e628"
-  integrity sha512-S0cXKkEqGDibD32K48FFodjeu/+eF++nrHhrLzo/bKxrnyQiPChPccFAnzsJCQ6uMvRuVGZzjKwM5/sMeBRthg==
+storyblok-js-client@^6.7.1:
+  version "6.7.1"
+  resolved "https://registry.yarnpkg.com/storyblok-js-client/-/storyblok-js-client-6.7.1.tgz#9b9ac8221d7e16dc9e63e5ddf547c1493d3f9cae"
+  integrity sha512-VOobZkor6BESji2MJUuO5jTIZeCWMUMR2LZtdSEEAtUDUfKwA88lGqDVMQqtWZ8nD7NzhZ6S7qvdv5Or9HZXRw==
 
 string.prototype.matchall@^4.0.7:
   version "4.0.7"
